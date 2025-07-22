@@ -8,5 +8,5 @@
 //     console.log("odd");
 // }
 
-import evenodd from "./evenodd.js"
-console.log(evenodd(7));
+// import evenodd from "./evenodd.js"
+// console.log(evenodd(7));
